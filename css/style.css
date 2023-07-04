@@ -1,0 +1,32 @@
+#DragArea {
+  margin: 50px auto;
+  width: 50%;
+  height: 200px;
+  border: 7px solid black;
+  display: flex;
+  justify-content: space-evenly;
+  cursor: pointer;
+}
+
+.box {
+  margin-top: 60px;
+  width: 60px;
+  height: 60px;
+  background-color: black;
+}
+
+p {
+  font-size: 50px;
+  text-align: center;
+  font-family: Bold;
+  margin-top: 30px;
+}
+
+#DropArea {
+  margin: 130px auto;
+  width: 50%;
+  height: 200px;
+  border: 7px solid black;
+  display: flex;
+  justify-content: space-evenly;
+}/*# sourceMappingURL=style.css.map */
